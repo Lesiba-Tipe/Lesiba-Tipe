@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Lesiba
 - 👀 I’m interested in tech.
-- 🌱 I’m currently learning looking for job as a junior software dev.
-- 📫 How to reach me on lesiba.tipe@tipegraphics.co.za
+- 🌱 I’m currently learning and looking for job as a junior software dev.
+- 📫 Reach me on lesiba.tipe@tipegraphics.co.za
 
 <!---
 Lesiba-Tipe/Lesiba-Tipe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
